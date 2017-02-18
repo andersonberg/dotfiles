@@ -1,0 +1,14 @@
+angular-2-typeScript-snippets@0.6.3
+atom-django@0.3.2
+atom-hg@2.0.11
+atom-jinja2@0.6.0
+atom-typescript@10.1.14
+autoclose-html@0.23.0
+autocomplete-python@1.8.54
+file-icons@2.0.15
+linter@1.11.23
+linter-flake8@2.1.4
+linter-python@3.0.5
+python-tools@0.6.9
+tabs-to-spaces@1.0.3
+
