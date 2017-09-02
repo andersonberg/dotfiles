@@ -6,6 +6,10 @@ if [ -f ".bashrc" ]; then
 	ln -s /home/anderson/Projetos/dotfiles/.bashrc ~/.bashrc
 fi
 
+if [ -f ".zshrc" ]; then
+	ln -s /home/anderson/Projetos/dotfiles/.zshrc ~/.zshrc
+fi
+
 if [ -f ".gitconfig" ]; then
 	ln -s /home/anderson/Projetos/dotfiles/.gitconfig ~/.gitconfig
 fi
