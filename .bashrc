@@ -120,5 +120,4 @@ export EDITOR="vim"
 
 export WORKON_HOME=~/.virtualenvs
 source /home/anderson/.local/bin/virtualenvwrapper.sh
-alias anchorenv='workon anchor'
-eval $(keychain --eval --quiet id_rsa id_rsa_anchor)
+eval $(keychain --eval --quiet id_rsa id_rsa_scrapinghub)
